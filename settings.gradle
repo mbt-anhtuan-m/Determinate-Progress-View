@@ -7,4 +7,5 @@ dependencyResolutionManagement {
     }
 }
 include ':app'
+include ':lib'
 rootProject.name = "DeterminateProgressView"
